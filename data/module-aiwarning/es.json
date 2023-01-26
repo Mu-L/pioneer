@@ -1,0 +1,22 @@
+{
+  "ATMO_PRESSURE_OVER_LIMIT": {
+    "description": "",
+    "message": "Presión atmosférica sobre los límites de la nave"
+  },
+  "AUTOPILOT": {
+    "description": "",
+    "message": "Piloto auto."
+  },
+  "CANNOT_COMPENSATE_FOR_LOCAL_GRAVITY": {
+    "description": "",
+    "message": "No se puede compensar la gravedad local"
+  },
+  "CANNOT_COMPUTE_ORBIT_PARAMETERS": {
+    "description": "",
+    "message": "Imposible calcular los parámetros orbitales"
+  },
+  "STARPORT_REFUSED_DOCKING_PERMISSION": {
+    "description": "",
+    "message": "Permiso de atraque denegado"
+  }
+}
