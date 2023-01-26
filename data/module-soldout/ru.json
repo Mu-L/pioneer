@@ -1,0 +1,34 @@
+{
+  "ADTEXT": {
+    "description": "",
+    "message": "ТРЕБУЕТСЯ: {commodity}. Оплата {price} за тонну"
+  },
+  "AMOUNT": {
+    "description": "The amount (for now in tonne) of goods person wants to buy",
+    "message": "Я куплю всё, что у вас есть, но не больше {amount}."
+  },
+  "MESSAGE": {
+    "description": "",
+    "message": "Я {name}. Мне срочно надо {commodity}, я заплачу двойную цену от рыночной ({price})."
+  },
+  "NOT_IN_STOCK": {
+    "description": "Regarding selling more than the player has",
+    "message": "Недостаточно {commodity} на складе."
+  },
+  "SELL_1": {
+    "description": "Sell one single unit (probably tonne)",
+    "message": "Продать 1"
+  },
+  "SELL_ALL": {
+    "description": "Sell everything player has of the good/commodity",
+    "message": "Продать все"
+  },
+  "SELL_N": {
+    "description": "Sell several units (probably in tonne), i.e. N > 1",
+    "message": "Продать {N}"
+  },
+  "TITLE": {
+    "description": "",
+    "message": "ТРЕБУЕТСЯ ТОВАР"
+  }
+}
