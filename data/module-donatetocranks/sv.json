@@ -1,0 +1,138 @@
+{
+  "FLAVOUR_0_ADTITLE": {
+    "description": "",
+    "message": "DONERA!"
+  },
+  "FLAVOUR_0_DESC": {
+    "description": "",
+    "message": "Kyrkan av det flygande spaghettimonstret behöver DINA pengar för att sprida guds ord."
+  },
+  "FLAVOUR_0_MESSAGE": {
+    "description": "",
+    "message": "Var god välj en summa att donera till Det himmelska Flygande Spaghettimonstrets Kyrka."
+  },
+  "FLAVOUR_1_ADTITLE": {
+    "description": "",
+    "message": "DONERA"
+  },
+  "FLAVOUR_1_DESC": {
+    "description": "",
+    "message": "De fria själarnas beskyddare ber ödmjukast om dina allmosor för att stötta våra kloster."
+  },
+  "FLAVOUR_1_MESSAGE": {
+    "description": "",
+    "message": "Frid vare med dig, broder. Välj en summa att donera till De fria själarnas beskyddare."
+  },
+  "FLAVOUR_2_ADTITLE": {
+    "description": "",
+    "message": "KÄNNER DU DIG GIVMILD?"
+  },
+  "FLAVOUR_2_DESC": {
+    "description": "",
+    "message": "War Orphans Support behöver din hjälp för att fortsätta sitt avgörande arbete."
+  },
+  "FLAVOUR_2_MESSAGE": {
+    "description": "",
+    "message": " Var god välj en summa att donera till Stöd för Krigets Föräldralösa och ge ett slut på lidande för barn över hela galaxen."
+  },
+  "FLAVOUR_3_ADTITLE": {
+    "description": "",
+    "message": "BIDRA"
+  },
+  "FLAVOUR_3_DESC": {
+    "description": "",
+    "message": "Galaxens Vänners Kampanj \"Förbjud Militära Motorer\" behöver dina pengar."
+  },
+  "FLAVOUR_3_MESSAGE": {
+    "description": "",
+    "message": "Välj en summa att donera till MiljöVakt, och få slut på miljöförstöringen i vår galax."
+  },
+  "FLAVOUR_4_ADTITLE": {
+    "description": "",
+    "message": "DONERA!"
+  },
+  "FLAVOUR_4_DESC": {
+    "description": "",
+    "message": "Rädda vår art. Stoppa blodbadet i nyligen etablerade världar."
+  },
+  "FLAVOUR_4_MESSAGE": {
+    "description": "",
+    "message": "Var god välj en summa att donera."
+  },
+  "FLAVOUR_5_ADTITLE": {
+    "description": "",
+    "message": "STÖD FRIHET!"
+  },
+  "FLAVOUR_5_DESC": {
+    "description": "",
+    "message": "Stoppa den stora orättvisan med proprietär programvara som styr ditt skepp."
+  },
+  "FLAVOUR_5_MESSAGE": {
+    "description": "",
+    "message": "Befria ditt skepp! Var god välj en summa att donera. Hacka lugnt."
+  },
+  "FLAVOUR_6_ADTITLE": {
+    "description": "",
+    "message": "VETERANENS DAG!"
+  },
+  "FLAVOUR_6_DESC": {
+    "description": "",
+    "message": "Stöd veteranerna inom {MILITARY}."
+  },
+  "FLAVOUR_6_MESSAGE": {
+    "description": "",
+    "message": "{MILITARY}. Du kan alltid räkna med dom.\nKan dom räkna med dig?"
+  },
+  "FLAVOUR_7_ADTITLE": {
+    "description": "",
+    "message": "HAR DOM DITT STÖD?"
+  },
+  "FLAVOUR_7_DESC": {
+    "description": "",
+    "message": "Stöd veteranerna inom {POLICE}."
+  },
+  "FLAVOUR_7_MESSAGE": {
+    "description": "",
+    "message": "De modiga män och kvinnor i {POLICE} som har vigt sina liv åt att hålla {SYSTEM} säkert, behöver ditt stöd!"
+  },
+  "FLAVOUR_8_ADTITLE": {
+    "description": "",
+    "message": "STÖD VÅRA VETERANER!"
+  },
+  "FLAVOUR_8_DESC": {
+    "description": "",
+    "message": "Stöd veteranerna från våra väpnade styrkor."
+  },
+  "FLAVOUR_8_MESSAGE": {
+    "description": "",
+    "message": "De modiga soldaterna inom {MILITARY} trotsar farorna för din skull!"
+  },
+  "FLAVOUR_9_ADTITLE": {
+    "description": "",
+    "message": "KAMP MOT FATTIGDOM!"
+  },
+  "FLAVOUR_9_DESC": {
+    "description": "",
+    "message": "Stöd kampen mot fattigdom inom {FACTION}."
+  },
+  "FLAVOUR_9_MESSAGE": {
+    "description": "",
+    "message": "Vi ger familjer i {FACTION} möjlighet att skapa en bättre framtid för alla."
+  },
+  "SALES_PITCH": {
+    "description": "",
+    "message": "Ditt rykte hade gynnats av att donera {cash} till vår välgörenhet, men alla donationer välkommnas."
+  },
+  "THANK_YOU_ALL_DONATIONS_ARE_WELCOME": {
+    "description": "",
+    "message": "Tack. Alla donationer är välkomna."
+  },
+  "WOW_THAT_WAS_VERY_GENEROUS": {
+    "description": "",
+    "message": "Wow! Det var mycket generöst!"
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Du har inte tillräckligt med pengar."
+  }
+}
