@@ -1,0 +1,110 @@
+{
+  "ADVICE_10_BODYTEXT": {
+    "description": "",
+    "message": "Η μετεγκατάσταση σε άλλη φατρία μπορεί να είναι μια καλή ιδέα όταν έχετε προβλήματα με τις τοπικές αρχές."
+  },
+  "ADVICE_10_HEADLINE": {
+    "description": "",
+    "message": "Αναγνωρίστε πότε έφτασε η κατάλληλη στιγμή να την σκαπουλάρετε"
+  },
+  "ADVICE_1_BODYTEXT": {
+    "description": "Point made is: the real illegal goods traders are fixed to each station, but police's fake illegal goods traders will be random every time.",
+    "message": "Καθώς επιστρέφετε σε ένα σταθμό, να είστε προσεκτικοί με εκείνες τις εναλλακτικές αγορές που δεν αναγνωρίζετε και θα μείνετε έξω από προβλήματα με το νόμο."
+  },
+  "ADVICE_1_HEADLINE": {
+    "description": "",
+    "message": "Δαμάστε τη Μαύρη Αγορά"
+  },
+  "ADVICE_2_BODYTEXT": {
+    "description": "",
+    "message": "Πολλές μικρές αποστάσεις διανύονται γρηγορότερα από το άθροισμα τους."
+  },
+  "ADVICE_2_HEADLINE": {
+    "description": "(A reference to the famous poem The Road Not Taken, by Robert Frost)",
+    "message": "Να επιλέγεται η πιο σύντομη διαδρομή."
+  },
+  "ADVICE_3_BODYTEXT": {
+    "description": "(it simply says, to have enough fuel to leave a place where there is no possibility to refuel)",
+    "message": "Αποφύγετε τη μετάβαση σε ακατοίκητα συστήματα χωρίς τα μέσα να φύγετε."
+  },
+  "ADVICE_3_HEADLINE": {
+    "description": "",
+    "message": "Αποφύγετε τα 'καραβοτσακίσματα': προσχεδιάστε την ακολουθία αλμάτων σας"
+  },
+  "ADVICE_4_BODYTEXT": {
+    "description": "",
+    "message": "Επιλέξτε το σύστημα αναφοράς σας. Ειδικά όταν θέλετε να συμβαδίσετε με την ταχύτητα και την πορεία ενός κινούμενου στόχου"
+  },
+  "ADVICE_4_HEADLINE": {
+    "description": "",
+    "message": "Είναι όλα σχετικά"
+  },
+  "ADVICE_5_BODYTEXT": {
+    "description": "",
+    "message": "Αγοράστε φτηνά και πωλήσατε ακριβά."
+  },
+  "ADVICE_5_HEADLINE": {
+    "description": "",
+    "message": "Ποτέ μην χάνετε χρήματα"
+  },
+  "ADVICE_6_BODYTEXT": {
+    "description": "",
+    "message": "Δώστε ιδιαίτερη προσοχή σε τυχόν νέα που αναφέρονται, καθώς οι πληροφορίες μπορούν να επηρεάσουν τις τιμές της αγοράς."
+  },
+  "ADVICE_6_HEADLINE": {
+    "description": "",
+    "message": "Παρατηρείτε και προσέχετε όσα συμβαίνουν γύρω σας"
+  },
+  "ADVICE_7_BODYTEXT": {
+    "description": "",
+    "message": "Με τις δωρεές μπορείτε να αποκτήσετε  μια καλή θέση στην κοινωνία, αλλά δεν αποφέρουν όλες οι φιλανθρωπίες φήμη."
+  },
+  "ADVICE_7_HEADLINE": {
+    "description": "",
+    "message": "Να είστε γενναιόδωροι"
+  },
+  "ADVICE_8_BODYTEXT": {
+    "description": "",
+    "message": "Όταν ταξιδεύετε σε δυαδικά συστήματα, φροντίστε να στοχεύετε το σωστό αστέρι."
+  },
+  "ADVICE_8_HEADLINE": {
+    "description": "",
+    "message": "Μείνετε μακριά από διπλά προβλήματα"
+  },
+  "ADVICE_9_BODYTEXT": {
+    "description": "",
+    "message": "Συντηρείτε τακτικά τους κινητήρες σας, αλλά θυμηθείτε: παίρνετε αυτό που πληρώνετε."
+  },
+  "ADVICE_9_HEADLINE": {
+    "description": "",
+    "message": "Μεταχειριστείτε σωστά το σκάφος σας"
+  },
+  "RUMOUR": {
+    "description": "Headline starts with this pre-headline",
+    "message": "ΚΟΥΤΣΟΜΠΟΛΙΌ"
+  },
+  "RUMOUR_1_BODYTEXT": {
+    "description": "",
+    "message": "Κάποιος στο Ομοσπονδιακό Ναυτικό μου είπε ότι μια μέρα, μία από τις κορβέτες τους πήγε κατά λάθος σε ένα σύστημα προφυλάκιων του Haber, περίπου 50ly έξω από το Sol, που ονομάζεται Rondel, σχεδόν προκαλώντας ανοιχτή σύγκρουση. Δεν φαίνεται να γνωρίζουν πολλοί άνθρωποι για το ίδιο το συμβάν έξω από το ναυτικό, αλλά μερικοί λένε ότι η διοίκηση του Rondel έχει γίνει πιο επιθετική απέναντι στους επισκέπτες από τότε, και οι πιλότοι μεταφορικών άρχισαν να αποφεύγουν το σύστημα."
+  },
+  "RUMOUR_1_HEADLINE": {
+    "description": "",
+    "message": "Το περιστατικό στο Rondel"
+  },
+  "TALE_1_BODYTEXT": {
+    "description": "",
+    "message": "Μην χάσετε την όμορφη έκλειψη στο New Hope καθώς ο Hades αποκλείει το φως από το Epsilon Eridani."
+  },
+  "TALE_1_HEADLINE": {
+    "description": "Blade runner?",
+    "message": "\"Έχω δει πράγματα που εσείς οι απλοί άνθρωποι δεν θα τα πιστεύατε\""
+  },
+  "TRAVELLERS_ADVICE": {
+    "description": "Headline starts with this pre-headline",
+    "message": "ΤΑΞΙΔΙΩΤΙΚΉ ΣΥΜΒΟΥΛΉ"
+  },
+  "TRAVELLERS_TALE": {
+    "description": "Headline starts with this pre-headline",
+    "message": "ΙΣΤΟΡΊΕΣ ΤΑΞΙΔΙΩΤΏΝ"
+  }
+}
