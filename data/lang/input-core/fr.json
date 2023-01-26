@@ -111,6 +111,10 @@
     "description": "Axis binding",
     "message": "Rotation carte vertical (lacet)"
   },
+  "BIND_MAP_VIEW_ZOOM": {
+    "description": "Axis binding",
+    "message": "Zoom Carte"
+  },
   "BIND_MAP_WARP_TO_CURRENT_SYSTEM": {
     "description": "Descriptive name for the MapWarpToCurrentSystem action.",
     "message": "Saute au système en cours"
@@ -321,5 +325,57 @@
   "Z": {
     "description": "keybinding: z axis",
     "message": "Z"
+  },
+  "GROUP_LANDING_CONTROL": {
+	"description": "Group label for landing-related inputs",
+	"message": "Contrôle Atterrissage"
+  },
+  "BIND_CONTROL_LANDING_GEAR": {
+	"description": "Axis description",
+	"message": "Déployer / Rétracter le train d'atterrissage"
+  },
+  "BIND_TOGGLE_LANDING_GEAR": {
+	"description": "Action description",
+	"message": "Déployer / Rétracter le train d'atterrissage"
+  },
+  "NUM_AXES": {
+	"description": "",
+	"message": "Nombre d'axes:"
+  },
+  "NUM_BUTTONS": {
+	"description": "",
+	"message": "Nombre de boutons:"
+  },
+  "NUM_HATS": {
+	"description": "",
+	"message": "Nombre de boutons de point de vue (hat):"
+  },
+  "CURRENT_VALUE": {
+	"description": "",
+	"message": "Valeur courante:"
+  },
+  "HALF_AXIS_MODE": {
+	"description": "",
+	"message": "Mode demi-axe"
+  },
+  "DEADZONE": {
+	"description": "",
+	"message": "Zone morte"
+  },
+  "CURVE": {
+	"description": "",
+	"message": "Courbe"
+  },
+  "RX": {
+    "description": "keybinding: second x axis",
+    "message": "RX"
+  },
+  "RY": {
+    "description": "keybinding: second y axis",
+    "message": "RY"
+  },
+  "RZ": {
+    "description": "keybinding: second z axis",
+    "message": "RZ"
   }
 }
