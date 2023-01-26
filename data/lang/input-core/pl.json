@@ -111,6 +111,10 @@
     "description": "Axis binding",
     "message": "Pionowy obrót mapy"
   },
+  "BIND_MAP_VIEW_ZOOM": {
+    "description": "Axis binding",
+    "message": "Powiększenie mapy"
+  },
   "BIND_MAP_WARP_TO_CURRENT_SYSTEM": {
     "description": "Descriptive name for the MapWarpToCurrentSystem action.",
     "message": "Warp do aktualnego systemu"
@@ -321,5 +325,57 @@
   "Z": {
     "description": "keybinding: z axis",
     "message": "Z"
+  },
+  "GROUP_LANDING_CONTROL": {
+	"description": "Group label for landing-related inputs",
+	"message": "Kontrola lądowania"
+  },
+  "BIND_CONTROL_LANDING_GEAR": {
+	"description": "Axis description",
+	"message": "Wsuń/ Wysuń podwozie"
+  },
+  "BIND_TOGGLE_LANDING_GEAR": {
+	"description": "Action description",
+	"message": "Przełącz podwozie"
+  },
+  "NUM_AXES": {
+	"description": "",
+	"message": "Liczba osi:"
+  },
+  "NUM_BUTTONS": {
+	"description": "",
+	"message": "Liczba przycisków:"
+  },
+  "NUM_HATS": {
+	"description": "",
+	"message": "Liczba kapeluszy:"
+  },
+  "CURRENT_VALUE": {
+	"description": "",
+	"message": "Aktualna wartość:"
+  },
+  "HALF_AXIS_MODE": {
+	"description": "",
+	"message": "Tryb półosi"
+  },
+  "DEADZONE": {
+	"description": "",
+	"message": "Martwa strefa"
+  },
+  "CURVE": {
+	"description": "",
+	"message": "Krzywa"
+  },
+  "RX": {
+    "description": "keybinding: second x axis",
+    "message": "RX"
+  },
+  "RY": {
+    "description": "keybinding: second y axis",
+    "message": "RY"
+  },
+  "RZ": {
+    "description": "keybinding: second z axis",
+    "message": "RZ"
   }
 }
