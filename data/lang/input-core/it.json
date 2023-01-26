@@ -111,6 +111,10 @@
     "description": "Axis binding",
     "message": "Imbardata Mappa"
   },
+  "BIND_MAP_VIEW_ZOOM": {
+    "description": "Axis binding",
+    "message": "Zoom mappa"
+  },
   "BIND_MAP_WARP_TO_CURRENT_SYSTEM": {
     "description": "Descriptive name for the MapWarpToCurrentSystem action.",
     "message": "Salta al Sistema Corrente"
@@ -321,5 +325,57 @@
   "Z": {
     "description": "keybinding: z axis",
     "message": "Z"
+  },
+  "GROUP_LANDING_CONTROL": {
+	"description": "Group label for landing-related inputs",
+	"message": "Controllo atterraggio"
+  },
+  "BIND_CONTROL_LANDING_GEAR": {
+	"description": "Axis description",
+	"message": "Alza / Abbassa carrello atterraggio"
+  },
+  "BIND_TOGGLE_LANDING_GEAR": {
+	"description": "Action description",
+	"message": "Interruttore carrello atterraggio"
+  },
+  "NUM_AXES": {
+	"description": "",
+	"message": "Numero assi:"
+  },
+  "NUM_BUTTONS": {
+	"description": "",
+	"message": "Numero pulsanti:"
+  },
+  "NUM_HATS": {
+	"description": "",
+	"message": "Numero di cappelli:"
+  },
+  "CURRENT_VALUE": {
+	"description": "",
+	"message": "Valore attuale:"
+  },
+  "HALF_AXIS_MODE": {
+	"description": "",
+	"message": "Modalità mezzi-assi"
+  },
+  "DEADZONE": {
+	"description": "",
+	"message": "Zona morta"
+  },
+  "CURVE": {
+	"description": "",
+	"message": "Curva"
+  },
+  "RX": {
+    "description": "keybinding: second x axis",
+    "message": "RX"
+  },
+  "RY": {
+    "description": "keybinding: second y axis",
+    "message": "RY"
+  },
+  "RZ": {
+    "description": "keybinding: second z axis",
+    "message": "RZ"
   }
 }
