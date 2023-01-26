@@ -1,0 +1,214 @@
+{
+  "ACCEPTED_ARMS_DEALER": {
+    "description": "",
+    "message": "Wspaniale! Dziękuję."
+  },
+  "ACCEPTED_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Dzięki. Nie będziesz żałował!"
+  },
+  "ACCEPTED_LEGAL_GOODS": {
+    "description": "",
+    "message": "Dziękuję. Poznasz dobry biznes, kiedy go ubijesz!"
+  },
+  "ACCEPTED_RESCUE": {
+    "description": "",
+    "message": "Bardzo dziękujemy. Załoga to doceni."
+  },
+  "ADTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "PRZECHWYCENIE: Wymagane odzyskanie dryfującego kontenera."
+  },
+  "ADTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Posiadasz czerpak towarowy i szukasz szansy na zarobek? Cenna informacja na sprzedaż."
+  },
+  "ADTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Zaniedbane usługi maklerskie: informacja o szczątkach zawierających drogocenny towar"
+  },
+  "ADTEXT_RESCUE": {
+    "description": "",
+    "message": "POTRZEBNA POMOC: Pilna operacja odzyskania kapsuły ratunkowej."
+  },
+  "ADTITLE_ARMS_DEALER": {
+    "description": "",
+    "message": "ODZYSKANIE TOWARU"
+  },
+  "ADTITLE_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "ŁATWA KASA"
+  },
+  "ADTITLE_LEGAL_GOODS": {
+    "description": "",
+    "message": "INFORMACJA NA SPRZEDAŻ"
+  },
+  "ADTITLE_RESCUE": {
+    "description": "",
+    "message": "POTRZEBNA POMOC"
+  },
+  "CLIENT": {
+    "description": "",
+    "message": "Klient:"
+  },
+  "DANGER": {
+    "description": "The risk level",
+    "message": "Zagrożenie:"
+  },
+  "DEADLINE": {
+    "description": "Must be delivered by",
+    "message": "Termin:"
+  },
+  "DENY_1": {
+    "description": "",
+    "message": "Że co? Nie sądzę, żeby twoje obecne kwalifikacje były wystarczające."
+  },
+  "DENY_2": {
+    "description": "",
+    "message": "Przykro mi, uważam, że to zadanie przekracza twoje zdolności pilota."
+  },
+  "DETONATORS": {
+    "description": "",
+    "message": "Detonatory"
+  },
+  "DOCKING_INSTRUCTION": {
+    "description": "",
+    "message": "Miło cię poznać. Proszę zbliżyć się na 100m, aby ukończyć transfer ładunku!"
+  },
+  "FAILURE_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Ty głupcze! Klient nie będzie zadowolony!"
+  },
+  "FAILURE_MSG_RESCUE": {
+    "description": "",
+    "message": "Twoja nierzetelność spowodowała wielkie straty. Zejdź mi z oczu!"
+  },
+  "HOW_MUCH_TIME": {
+    "description": "",
+    "message": "Ile mam czasu?"
+  },
+  "HOW_MUCH_TIME_ARMS_DEALER": {
+    "description": "",
+    "message": "Mój partner biznesowy jest na orbicie wokół {star}, aby uniknąć wykrycia. Byłoby wspaniale, gdybyś dotarł do niego przed {date}."
+  },
+  "HOW_MUCH_TIME_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Nie trać czasu. Tylko ranne ptaszki łapią robaka!"
+  },
+  "HOW_MUCH_TIME_LEGAL_GOODS": {
+    "description": "",
+    "message": "Nie wiem. Ale gdybym był tobą, to bym się śpieszył!"
+  },
+  "HOW_MUCH_TIME_RESCUE": {
+    "description": "",
+    "message": "Byłoby dobrze, gdybyś dotarł tam przed {date}."
+  },
+  "INTROTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "Witaj, dowódco. Nazywam się {client}. Byłoby wspaniale, gdybyś mógł mi pomóc. Nieodpowiedzialny kapitan frachtowca wyrzucił mój ładunek w pobliżu {planet} i zniknął. Twoim zadaniem będzie podjęcie jednego kontenera i dostarczenie go na {shipid}, orbitujący wokół {star}. Zapłacę {cash}."
+  },
+  "INTROTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Hej stary, wiem o chmurze szczątków z nielegalnymi dobrami. Policja przechwyciła szmuglera w pobliżu {planet}. Nie mieli jeszcze czasu, żeby wyczyścić ten obszar. Jeżeli się pośpieszysz, możesz łatwo zarobić. Mogę dać ci współrzędne za jedyne {cash}. Nie przegap tej szansy!"
+  },
+  "INTROTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Witaj, przyjacielu. Jestem {client}. Słyszałem o przewoźniku towarów, który wpadł w kłopoty w pobliżu {planet} z powodu złego dbania o stanu statku. To niezwykle, kto dzisiaj lata w kosmos, co nie? Tak czy siak, musieli wyrzucić sporo ładunku. Jeśli się pospieszysz, możesz go bardzo łatwo przechwycić! Ta informacja jest tak dobra jak świeża! Sprzedam ci współrzędne za marne {cash}. Co ty na to?"
+  },
+  "INTROTEXT_RESCUE": {
+    "description": "",
+    "message": "Hej, nazywam się {client}. Załoga frachtowca musiała porzucić swój statek na skutek wypadku. Właściciel statku jest skłonny zapłacić {cash} za dyskretną misję ratunkową. Miejsce zdarzenia jest w pobliżu {planet}. Uratuj załogę i dostarcz ją na stację!"
+  },
+  "NUCLEAR_MISSILE": {
+    "description": "A cargo item",
+    "message": "Pocisk atomowy"
+  },
+  "OK_AGREED": {
+    "description": "",
+    "message": "Ok, zgoda."
+  },
+  "REPEAT_THE_REQUEST": {
+    "description": "",
+    "message": "Czy można powtórzyć prośbę?"
+  },
+  "RESCUE_CAPSULE": {
+    "description": "",
+    "message": "Kapsuła ratunkowa"
+  },
+  "ROCKET_LAUNCHERS": {
+    "description": "",
+    "message": "Wyrzutnie rakiet"
+  },
+  "SCOOP": {
+    "description": "Name of mission type",
+    "message": "Mocowania czerpaków"
+  },
+  "SET_AS_TARGET": {
+    "description": "",
+    "message": "Ustaw jako cel nawigacyjny."
+  },
+  "SHIP": {
+    "description": "",
+    "message": "Statek:"
+  },
+  "SHIP_DESTROYED": {
+    "description": "",
+    "message": "O nie! {shipid} został zniszczony. Dostarcz teraz ładunek na {station}!"
+  },
+  "SPACEPORT": {
+    "description": "",
+    "message": "Port kosmiczny:"
+  },
+  "SPOILED_FOOD": {
+    "description": "cargo item",
+    "message": "Zepsuta żywność"
+  },
+  "SUCCESS_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Hej, Asie, nieźle latasz! Pieniądze przelane."
+  },
+  "SUCCESS_MSG_RESCUE": {
+    "description": "",
+    "message": "Wielkie dzięki! Załoga również chciałaby wyrazić wdzięczność."
+  },
+  "TOXIC_WASTE": {
+    "description": "cargo item",
+    "message": "Toksyczne odpady"
+  },
+  "UNKNOWN": {
+    "description": "",
+    "message": "Nieznane"
+  },
+  "WARNING": {
+    "description": "",
+    "message": "Hej! Co próbujesz zrobić? Nasz kontrakt jest zagrożony! Podejmij to z powrotem!"
+  },
+  "WHY_NOT_YOURSELF": {
+    "description": "",
+    "message": "Dlaczego samemu tego nie zrobisz?"
+  },
+  "WHY_NOT_YOURSELF_ARMS_DEALER": {
+    "description": "",
+    "message": "Lokalne władze mnie obserwują! Przez kilka tygodni muszę nie rzucać się w oczy."
+  },
+  "WHY_NOT_YOURSELF_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Jestem tylko urzędnikiem biurowym. Nie mam statku."
+  },
+  "WHY_NOT_YOURSELF_LEGAL_GOODS": {
+    "description": "",
+    "message": "Nie mam statku."
+  },
+  "WHY_NOT_YOURSELF_RESCUE": {
+    "description": "",
+    "message": "Nie mam teraz dostępu do statku."
+  },
+  "YOU_DO_NOT_HAVE_A_SCOOP": {
+    "description": "",
+    "message": "Przykro mi, nie masz czerpaka towarowego."
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Nie masz dość pieniędzy."
+  }
+}
