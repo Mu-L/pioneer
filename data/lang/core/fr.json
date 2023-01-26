@@ -371,6 +371,22 @@
     "description": "",
     "message": "Montrer les tiges verticales"
   },
+  "DWARF_PLANET_CONTAINING_LIQUID_WATER": {
+    "description": "",
+    "message": "Planète naine contenant de l'eau liquide"
+  },
+  "DWARF_PLANET_CONTAINING_SOME_LIQUIDS": {
+    "description": "",
+    "message": "Planète naine contenant quelques liquides,"
+  },
+  "DWARF_PLANET_MOSTLY_COVERED_IN_ICE": {
+    "description": "",
+    "message": "Planète naine, majoritairement couverte de glace"
+  },
+  "DWARF_PLANET_TERRESTRIAL": {
+    "description": "",
+    "message": "Planète naine"
+  },
   "EARTH_FEDERATION_COLONIAL_RULE": {
     "description": "",
     "message": "Loi coloniale de la Fédération"
@@ -599,6 +615,10 @@
     "description": "",
     "message": "atmosphère d'hydrogène"
   },
+  "ICE_DWARF_PLANET": {
+    "description": "",
+    "message": "Planète naine glacée"
+  },
   "ICE_MOON": {
     "description": "",
     "message": "\"lune glacée\""
@@ -785,7 +805,7 @@
   },
   "METAL_ALLOYS": {
     "description": "",
-    "message": "Alliages métalliques"
+    "message": "Alliages Mettaliques"
   },
   "METAL_ORE": {
     "description": "",
@@ -1101,7 +1121,7 @@
   },
   "PITCH": {
     "description": "",
-    "message": "Lancement"
+    "message": "Tangage"
   },
   "PITCH_DOWN": {
     "description": "",
@@ -1217,7 +1237,7 @@
   },
   "ROLL": {
     "description": "",
-    "message": "Roulade"
+    "message": "Roulis"
   },
   "ROLL_LEFT": {
     "description": "",
@@ -1849,7 +1869,7 @@
   },
   "WHEELS_ARE_DOWN": {
     "description": "",
-    "message": "Train d'atterrissage sorti"
+    "message": "Train d'atterrissage rentré"
   },
   "WHEELS_ARE_UP": {
     "description": "",
@@ -1869,7 +1889,7 @@
   },
   "YAW": {
     "description": "",
-    "message": "Lacets"
+    "message": "Lacet"
   },
   "YAW_LEFT": {
     "description": "",
