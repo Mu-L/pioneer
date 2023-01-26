@@ -1,0 +1,214 @@
+{
+  "ACCEPTED_ARMS_DEALER": {
+    "description": "",
+    "message": "Strålande! Tack!"
+  },
+  "ACCEPTED_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Tack. Du kommer inte ångra det!"
+  },
+  "ACCEPTED_LEGAL_GOODS": {
+    "description": "",
+    "message": "Tack. Du du känner igen en bra affär när du ser en!"
+  },
+  "ACCEPTED_RESCUE": {
+    "description": "",
+    "message": "Tack så mycket. Besättningen kommer att uppskatta det."
+  },
+  "ADTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "Upphämtningsuppdrag: snabb återhämtning av drivande behållare krävs."
+  },
+  "ADTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Har du en lastskopa och letar du efter din nästa framgång? Värdefull information till salu."
+  },
+  "ADTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Derelict Brokerage Services: information om ett skräpfält med värdefull last."
+  },
+  "ADTEXT_RESCUE": {
+    "description": "",
+    "message": "HJÄLP EFTERFRÅGAS: Brådskande operation för räddning av livkapsel"
+  },
+  "ADTITLE_ARMS_DEALER": {
+    "description": "",
+    "message": "BÄRGNING AV LAST"
+  },
+  "ADTITLE_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "ENKLA PENGAR"
+  },
+  "ADTITLE_LEGAL_GOODS": {
+    "description": "",
+    "message": "INFORMATION TILL SALU"
+  },
+  "ADTITLE_RESCUE": {
+    "description": "",
+    "message": "HJÄLP ÖNSKAS"
+  },
+  "CLIENT": {
+    "description": "",
+    "message": "Klient:"
+  },
+  "DANGER": {
+    "description": "The risk level",
+    "message": "Varning:"
+  },
+  "DEADLINE": {
+    "description": "Must be delivered by",
+    "message": "Deadline:"
+  },
+  "DENY_1": {
+    "description": "",
+    "message": "Ursäkta mig? Jag tror inte att dina nuvarande kvalifikationer räcker här."
+  },
+  "DENY_2": {
+    "description": "",
+    "message": "Tyvärr, jag tror att den här uppgiften är bortom din förmåga som pilot."
+  },
+  "DETONATORS": {
+    "description": "",
+    "message": "Detonatorer"
+  },
+  "DOCKING_INSTRUCTION": {
+    "description": "",
+    "message": "Trevligt att träffas. Vänligen närma dig till inom 100 m för att slutföra överföringen av lasten!"
+  },
+  "FAILURE_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Din imbicil. Klienten kommer inte gilla detta!"
+  },
+  "FAILURE_MSG_RESCUE": {
+    "description": "",
+    "message": "Din opålitlighet har orsakat stor skada. Försvinn ur min åsyn!"
+  },
+  "HOW_MUCH_TIME": {
+    "description": "",
+    "message": "Hur mycket tid har jag på mig?"
+  },
+  "HOW_MUCH_TIME_ARMS_DEALER": {
+    "description": "",
+    "message": "Min affärspartner är i omloppsbana runt {star} för att undvika upptäckt. Det skulle vara bra om du kunde nå honom före {date}."
+  },
+  "HOW_MUCH_TIME_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Slösa ingen tid. 'Only the early bird catches the worm!'"
+  },
+  "HOW_MUCH_TIME_LEGAL_GOODS": {
+    "description": "",
+    "message": "Jag vet inte. Men om jag var du skulle jag vara snabb!"
+  },
+  "HOW_MUCH_TIME_RESCUE": {
+    "description": "",
+    "message": "Det skulle vara bra om du kunde nå platsen före {date}."
+  },
+  "INTROTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "Hej Kapten! Jag heter {client}. Det skulle vara jättebra om du kunde hjälpa mig. En opålitlig fraktkapten dumpade min last nära {planet} och har varit försvunnen sedan dess. Din uppgift skulle vara att hämta en behållare och leverera den till skeppet {shipid} i omloppsbana runt {star}. Jag skulle betala dig {cash}."
+  },
+  "INTROTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Hej kompis, jag känner till ett skräpfält med olagliga varor. Polisen fångade en smugglare nära {planet}. De har inte hunnit städa upp området ännu. Om du är snabb kan du tjäna lätta pengar! Jag kan ge dig koordinaterna. Det kostar dig bara {cash}. Låt inte chansen glida förbi!"
+  },
+  "INTROTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Hej min vän. Jag är {client}. Jag hörde om en laståkare som fick problem nära {planet} på grund av dåligt underhåll av fartyget. Fantastiskt vem som får flyga ett rymdskepp nuförtiden, eller hur? Hur som helst, de var tvungna att dumpa mycket av lasten. Om du är snabb kan du ta tag i lasten väldigt enkelt! Denna information är så god som ny! Jag säljer dig koordinaterna för endast {cash}. Vad säger du?"
+  },
+  "INTROTEXT_RESCUE": {
+    "description": "",
+    "message": "Hej, jag heter {client}. Besättningen på ett fraktfartyg var tvungen att överge skeppet efter en incident. Ägaren till fartyget är villig att betala {cash} för ett diskret räddningsuppdrag. Olycksplatsen är nära {planet}. Plocka upp besättningen och ta dem till en station!"
+  },
+  "NUCLEAR_MISSILE": {
+    "description": "A cargo item",
+    "message": "Kärnvapenmissil"
+  },
+  "OK_AGREED": {
+    "description": "",
+    "message": "OK, överenskommet."
+  },
+  "REPEAT_THE_REQUEST": {
+    "description": "",
+    "message": "Kan du vara så snäll och upprepa begäran?"
+  },
+  "RESCUE_CAPSULE": {
+    "description": "",
+    "message": "Livkapsel"
+  },
+  "ROCKET_LAUNCHERS": {
+    "description": "",
+    "message": "Raketgevär"
+  },
+  "SCOOP": {
+    "description": "Name of mission type",
+    "message": "Skopa"
+  },
+  "SET_AS_TARGET": {
+    "description": "",
+    "message": "Använd destination som navigationsmål"
+  },
+  "SHIP": {
+    "description": "",
+    "message": "Skepp:"
+  },
+  "SHIP_DESTROYED": {
+    "description": "",
+    "message": "Å nej. {shipid} har förstörts. Leverera lasten till {station} nu!"
+  },
+  "SPACEPORT": {
+    "description": "",
+    "message": "Rymdstation:"
+  },
+  "SPOILED_FOOD": {
+    "description": "cargo item",
+    "message": "Förstörd mat"
+  },
+  "SUCCESS_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Som ett riktigt ess, snyggt fluget! Pengar har överförts."
+  },
+  "SUCCESS_MSG_RESCUE": {
+    "description": "",
+    "message": "Tack så mycket! Besättningen vill också uttrycka sitt tack."
+  },
+  "TOXIC_WASTE": {
+    "description": "cargo item",
+    "message": "Giftigt avfall"
+  },
+  "UNKNOWN": {
+    "description": "",
+    "message": "Okänd"
+  },
+  "WARNING": {
+    "description": "",
+    "message": "Hallå! Vad försöker du göra? Vårt kontrakt är i fara! Vänligen plocka upp det igen!"
+  },
+  "WHY_NOT_YOURSELF": {
+    "description": "",
+    "message": "Varför gör du det inte själv?"
+  },
+  "WHY_NOT_YOURSELF_ARMS_DEALER": {
+    "description": "",
+    "message": "De lokala myndigheterna övervakar mig! Jag måste hålla en låg profil i några veckor."
+  },
+  "WHY_NOT_YOURSELF_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Jag är bara en pappersvändare, jag äger inget skepp."
+  },
+  "WHY_NOT_YOURSELF_LEGAL_GOODS": {
+    "description": "",
+    "message": "Jag har inget skepp."
+  },
+  "WHY_NOT_YOURSELF_RESCUE": {
+    "description": "",
+    "message": "Jag har inget skepp tillgängligt just nu."
+  },
+  "YOU_DO_NOT_HAVE_A_SCOOP": {
+    "description": "",
+    "message": "Ledsen, du har ingen lastskopa."
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Du har inte tillräckligt med pengar."
+  }
+}

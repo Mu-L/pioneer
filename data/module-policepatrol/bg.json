@@ -1,0 +1,74 @@
+{
+  "ILLEGAL_GOODS_DETECTED": {
+    "description": "",
+    "message": "Засечени са незаконни стоки."
+  },
+  "INITIATE_CARGO_SCAN_1": {
+    "description": "",
+    "message": "Започнато сканиране на товара."
+  },
+  "INITIATE_CARGO_SCAN_2": {
+    "description": "",
+    "message": "Поддържайте Вашия курс и скорост за успешно сканиране на товара."
+  },
+  "INITIATE_CARGO_SCAN_3": {
+    "description": "",
+    "message": "Започнато претърсване за контрабанда."
+  },
+  "NOTHING_DETECTED": {
+    "description": "",
+    "message": "Не е засечен незаконен товар. Може да продължите."
+  },
+  "OUTLAW_DETECTED_1": {
+    "description": "",
+    "message": "{ship_label} се управлява от престъпник. Вижте му сметката!"
+  },
+  "OUTLAW_DETECTED_2": {
+    "description": "",
+    "message": "Бандитче, кажи си молитвата!"
+  },
+  "OUTLAW_DETECTED_3": {
+    "description": "",
+    "message": "Това е краят! Поемете си последната глътка въздух!"
+  },
+  "POLICE_TAUNT_1": {
+    "description": "",
+    "message": "Човече, това беше лоша идея!"
+  },
+  "POLICE_TAUNT_2": {
+    "description": "",
+    "message": "Скъпо ще си платиш, контрабандистче такова!"
+  },
+  "POLICE_TAUNT_3": {
+    "description": "",
+    "message": "Престъпленията никога не се отплащат!"
+  },
+  "RESPECT_THE_LAW_1": {
+    "description": "",
+    "message": "Спазвайте закона! В системата {system} не се правят подкупи!"
+  },
+  "RESPECT_THE_LAW_2": {
+    "description": "",
+    "message": "Намирате се в системата {system}. Спазвайте закона!"
+  },
+  "TAKE_A_HIKE": {
+    "description": "",
+    "message": "Ще си затворим очите засега. На добър час!"
+  },
+  "TARGET_DESTROYED_1": {
+    "description": "",
+    "message": "Целта е унищожена!"
+  },
+  "TARGET_DESTROYED_2": {
+    "description": "",
+    "message": "Да!"
+  },
+  "TARGET_DESTROYED_3": {
+    "description": "",
+    "message": "Почивайте на парчета! Ха-ха."
+  },
+  "TARGET_DESTROYED_4": {
+    "description": "",
+    "message": "Още един по-малко!"
+  }
+}

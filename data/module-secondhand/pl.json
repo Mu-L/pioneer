@@ -1,0 +1,98 @@
+{
+  "BUY": {
+    "description": "Buy a piece of ship equipment",
+    "message": "Kupno"
+  },
+  "FITTING_IS_INCLUDED_IN_THE_PRICE": {
+    "description": "Regarding installing a component on the ship",
+    "message": "Instalacja jest wliczona w cenę."
+  },
+  "FLAVOUR_0_BODY": {
+    "description": "",
+    "message": "Witam! Nazywam się {name} i sprzedam {equipment} z mojego starego rzęcha. Chcę za to {price}."
+  },
+  "FLAVOUR_0_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Oferta specjalna, mam na sprzedaż {equipment}."
+  },
+  "FLAVOUR_0_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "NA SPRZEDAŻ"
+  },
+  "FLAVOUR_1_BODY": {
+    "description": "",
+    "message": "Cześć! Nazywam się {name}. Mam w posiadaniu sprzęt ({equipment}) prawie jak nowy. Sprzedam to za jedyne {price}."
+  },
+  "FLAVOUR_1_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Praktycznie nieużywane {equipment}, w dobrej cenie!"
+  },
+  "FLAVOUR_1_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "SPRZEDAM EKWIPUNEK"
+  },
+  "FLAVOUR_2_BODY": {
+    "description": "",
+    "message": "Pozdrawiam! Nazywam się {name} i mam tu sprzęt ({equipment}), jest on w bardzo dobrym stanie. Może być twój za jedyne {price}."
+  },
+  "FLAVOUR_2_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Sprzedam {equipment}, w dobrej cenie!"
+  },
+  "FLAVOUR_2_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "SPRZEDAM EKWIPUNEK"
+  },
+  "FLAVOUR_3_BODY": {
+    "description": "",
+    "message": "Witaj! Mam ekstra sprzęt ({equipment}) którego chcę się pozbyć, moja oferta wynosi {price}."
+  },
+  "FLAVOUR_3_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Oferuje {equipment}, w dobrym stanie."
+  },
+  "FLAVOUR_3_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "NA SPRZEDAŻ"
+  },
+  "FLAVOUR_4_BODY": {
+    "description": "",
+    "message": "Cześć! Mamy ekstra sprzęt ({equipment}) który może być twój za {price}."
+  },
+  "FLAVOUR_4_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Na sprzedaż: resztki z {equipment}, w dobrej kondycji."
+  },
+  "FLAVOUR_4_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "NA SPRZEDAŻ"
+  },
+  "FLAVOUR_5_BODY": {
+    "description": "",
+    "message": "Pozdrawiam! Chcesz kupić mój stary sprzęt ({equipment})? Służył mi dobrze, ale po modernizacji już go nie potrzebuję. Cena wynosi {price}."
+  },
+  "FLAVOUR_5_TEXT": {
+    "description": "Selling second hand ship equipment",
+    "message": "Na sprzedaż: stary {equipment}, działający."
+  },
+  "FLAVOUR_5_TITLE": {
+    "description": "Selling second hand ship equipment",
+    "message": "SPRZEDAM EKWIPUNEK"
+  },
+  "HAS_BEEN_FITTED_TO_YOUR_SHIP": {
+    "description": "",
+    "message": "{equipment} - zainstalowano na twoim statku."
+  },
+  "HOW_DO_I_FITT_IT": {
+    "description": "Regarding installing a component on the ship",
+    "message": "Jak to zainstaluję?"
+  },
+  "REPEAT_OFFER": {
+    "description": "",
+    "message": "Powtórz ofertę"
+  },
+  "YOU_DONT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Nie masz dość pieniędzy."
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "ACCEPTED_ARMS_DEALER": {
+    "description": "",
+    "message": "太好了！非常感谢。"
+  },
+  "ACCEPTED_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "谢谢。你不会后悔的！"
+  },
+  "ACCEPTED_LEGAL_GOODS": {
+    "description": "",
+    "message": "非常感谢。当你看到一个的时候，你知道很多！"
+  },
+  "ACCEPTED_RESCUE": {
+    "description": "",
+    "message": "非常感谢你。全体船员会很感激的。"
+  },
+  "ADTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "提货任务：需要迅速回收漂流集装箱。"
+  },
+  "ADTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "有一个货物铲和寻找你的下一个评分？有价值的销售信息。"
+  },
+  "ADTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "被遗弃的经纪服务：关于有贵重货物的碎片场的信息。"
+  },
+  "ADTEXT_RESCUE": {
+    "description": "",
+    "message": "需要帮助：紧急逃生舱救援行动。"
+  },
+  "ADTITLE_ARMS_DEALER": {
+    "description": "",
+    "message": "货物回收"
+  },
+  "ADTITLE_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "轻松赚钱"
+  },
+  "ADTITLE_LEGAL_GOODS": {
+    "description": "",
+    "message": "待售信息"
+  },
+  "ADTITLE_RESCUE": {
+    "description": "",
+    "message": "需要帮助"
+  },
+  "CLIENT": {
+    "description": "",
+    "message": "客户端："
+  },
+  "DANGER": {
+    "description": "The risk level",
+    "message": "危险:"
+  },
+  "DEADLINE": {
+    "description": "Must be delivered by",
+    "message": "截止日期:"
+  },
+  "DENY_1": {
+    "description": "",
+    "message": "抱歉，先生？我认为你目前的资历不够。"
+  },
+  "DENY_2": {
+    "description": "",
+    "message": "对不起，我认为这个任务超出了你作为飞行员的能力。"
+  },
+  "DETONATORS": {
+    "description": "",
+    "message": "雷管"
+  },
+  "DOCKING_INSTRUCTION": {
+    "description": "",
+    "message": "很高兴认识你。请在100米内接近完成货物转移！"
+  },
+  "FAILURE_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "你这个傻瓜。客户不会喜欢的！"
+  },
+  "FAILURE_MSG_RESCUE": {
+    "description": "",
+    "message": "你的不可靠造成了很大的伤害。快离开我的视线！"
+  },
+  "HOW_MUCH_TIME": {
+    "description": "",
+    "message": "我有多少时间？"
+  },
+  "HOW_MUCH_TIME_ARMS_DEALER": {
+    "description": "",
+    "message": "我的商业伙伴躲在在环绕{star}的轨道。如果你能在{date}之前找到他那就太好了。"
+  },
+  "HOW_MUCH_TIME_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "不要浪费时间。只有早起的鸟儿才会有虫吃！"
+  },
+  "HOW_MUCH_TIME_LEGAL_GOODS": {
+    "description": "",
+    "message": "我不知道。但如果我是你，我会尽快！"
+  },
+  "HOW_MUCH_TIME_RESCUE": {
+    "description": "",
+    "message": "如果你能在{date}之前到达这个地点就好了。"
+  },
+  "INTROTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "你好，指挥官。我叫{client}。如果你能帮我，那就太好了。一个不可靠的货轮船长把我的货物遗失在{星球}附近，从此消失了。你的任务是找到那个集装箱，然后把它送到围绕{star}的轨道上的{shipid}船上。我会付你{cash}"
+  },
+  "INTROTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "嘿，伙计，我知道一个有非法物品的垃圾场。警察在{planet}附近抓住了一个走私犯。他们还没来得及清理这个地区。如果你很快，你可以轻松赚钱！我可以给你坐标。你只需要付{cash}。别让机会溜走了！"
+  },
+  "INTROTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "你好，我的朋友。我是{client}。我听说在{planet}附近有一个货运公司因为船只保养不好而出了问题。现在谁能驾驶宇宙飞船真是太神奇了，不是吗？不管怎样，他们不得不抛弃大量货物。如果你快，你可以很容易地捡到货物！这个信息新鲜出炉！我会把坐标卖给你的。你觉得怎么样？"
+  },
+  "INTROTEXT_RESCUE": {
+    "description": "",
+    "message": "嗨，我叫{client}。一次事故后，一艘货轮的船员不得不弃船。船东愿意为谨慎的营救任务支付{cash}。事故地点在{planet}附近。请把船员带到空间站去！"
+  },
+  "NUCLEAR_MISSILE": {
+    "description": "A cargo item",
+    "message": "核导弹"
+  },
+  "OK_AGREED": {
+    "description": "",
+    "message": "好的，同意。"
+  },
+  "REPEAT_THE_REQUEST": {
+    "description": "",
+    "message": "你能重复一下这个要求吗？"
+  },
+  "RESCUE_CAPSULE": {
+    "description": "",
+    "message": "救生舱"
+  },
+  "ROCKET_LAUNCHERS": {
+    "description": "",
+    "message": "火箭发射器"
+  },
+  "SCOOP": {
+    "description": "Name of mission type",
+    "message": "收集器槽位数"
+  },
+  "SET_AS_TARGET": {
+    "description": "",
+    "message": "设置为导航目标"
+  },
+  "SHIP": {
+    "description": "",
+    "message": "飞船:"
+  },
+  "SHIP_DESTROYED": {
+    "description": "",
+    "message": "卧槽，{shipid}已经被摧毁了。马上把货送到空间站！"
+  },
+  "SPACEPORT": {
+    "description": "",
+    "message": "星港:"
+  },
+  "SPOILED_FOOD": {
+    "description": "cargo item",
+    "message": "变质的食物"
+  },
+  "SUCCESS_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "漂亮，飞得好！钱已经转账过去了。"
+  },
+  "SUCCESS_MSG_RESCUE": {
+    "description": "",
+    "message": "非常感谢你！全体船员还要表示感谢。"
+  },
+  "TOXIC_WASTE": {
+    "description": "cargo item",
+    "message": "有毒废物"
+  },
+  "UNKNOWN": {
+    "description": "",
+    "message": "未知"
+  },
+  "WARNING": {
+    "description": "",
+    "message": "嘿！你想干什么？我们的合同有风险！请再捡起来！"
+  },
+  "WHY_NOT_YOURSELF": {
+    "description": "",
+    "message": "你为什么不自己做呢？"
+  },
+  "WHY_NOT_YOURSELF_ARMS_DEALER": {
+    "description": "",
+    "message": "地方当局在监视我！我得低调几周。"
+  },
+  "WHY_NOT_YOURSELF_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "我只是个办公室职员。我没有飞船。"
+  },
+  "WHY_NOT_YOURSELF_LEGAL_GOODS": {
+    "description": "",
+    "message": "我没有飞船。"
+  },
+  "WHY_NOT_YOURSELF_RESCUE": {
+    "description": "",
+    "message": "我现在没有飞船。"
+  },
+  "YOU_DO_NOT_HAVE_A_SCOOP": {
+    "description": "",
+    "message": "对不起，你没有货铲。"
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "你没有足够的钱."
+  }
+}

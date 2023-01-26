@@ -1,0 +1,214 @@
+{
+  "ACCEPTED_ARMS_DEALER": {
+    "description": "",
+    "message": "Отлично! Спасибо."
+  },
+  "ACCEPTED_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Спасибо. Вы не пожалеете об этом!"
+  },
+  "ACCEPTED_LEGAL_GOODS": {
+    "description": "",
+    "message": "Спасибо. Ты поймёшь, что сделка хороша, когда увидишь такую!"
+  },
+  "ACCEPTED_RESCUE": {
+    "description": "",
+    "message": "Большое спасибо. Команда это оценит."
+  },
+  "ADTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "Миссия по подбору: требуется быстро подобрать дрейфующий контейнер."
+  },
+  "ADTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "У вас есть грузовой ковш и вы ищете свой следующий результат? Ценная информация для продажи."
+  },
+  "ADTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Запрошенные брокерские услуги: информация о мусорном поле с ценным грузом."
+  },
+  "ADTEXT_RESCUE": {
+    "description": "",
+    "message": "ТРЕБУЕТСЯ ПОМОЩЬ: Срочная операция по спасению капсулы."
+  },
+  "ADTITLE_ARMS_DEALER": {
+    "description": "",
+    "message": "ВОССТАНОВЛЕНИЕ ГРУЗА"
+  },
+  "ADTITLE_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "БЫСТРЫЙ ЗАРАБОТОК"
+  },
+  "ADTITLE_LEGAL_GOODS": {
+    "description": "",
+    "message": "ИНФОРМАЦИЯ НА ПРОДАЖУ"
+  },
+  "ADTITLE_RESCUE": {
+    "description": "",
+    "message": "НУЖНА ПОМОЩЬ"
+  },
+  "CLIENT": {
+    "description": "",
+    "message": "Клиент:"
+  },
+  "DANGER": {
+    "description": "The risk level",
+    "message": "Опасность:"
+  },
+  "DEADLINE": {
+    "description": "Must be delivered by",
+    "message": "Крайний срок:"
+  },
+  "DENY_1": {
+    "description": "",
+    "message": "Простите, сэр? Не думаю, что вашей нынешней квалификации достаточно."
+  },
+  "DENY_2": {
+    "description": "",
+    "message": "Извините, я думаю, что эта задача не по силам вам как пилоту."
+  },
+  "DETONATORS": {
+    "description": "",
+    "message": "Детонаторы"
+  },
+  "DOCKING_INSTRUCTION": {
+    "description": "",
+    "message": "Рад встрече. Пожалуйста, подойдите ближе 100м, чтобы завершить передачу груза!"
+  },
+  "FAILURE_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Ты дурак. Клиенту это не понравится!"
+  },
+  "FAILURE_MSG_RESCUE": {
+    "description": "",
+    "message": "Ваша ненадежность причинила большой вред. Прочь с глаз моих!"
+  },
+  "HOW_MUCH_TIME": {
+    "description": "",
+    "message": "Сколько у меня есть времени?"
+  },
+  "HOW_MUCH_TIME_ARMS_DEALER": {
+    "description": "",
+    "message": "Мой деловой партнер находится на орбите вокруг {star}, чтобы избежать обнаружения. Было бы здорово, если бы вы смогли связаться с ним до {date}."
+  },
+  "HOW_MUCH_TIME_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Не теряйте время зря. Кто рано встаёт, тому Бог подаёт!"
+  },
+  "HOW_MUCH_TIME_LEGAL_GOODS": {
+    "description": "",
+    "message": "Я не знаю. Но на вашем месте я поторопился бы!"
+  },
+  "HOW_MUCH_TIME_RESCUE": {
+    "description": "",
+    "message": "Будет хорошо, если вы сможете добраться до места до {date}."
+  },
+  "INTROTEXT_ARMS_DEALER": {
+    "description": "",
+    "message": "Привет, командир. Меня зовут {client}. Было бы здорово, если бы вы смогли мне помочь. Один ненадёжный капитан грузового корабля сбросил мой груз возле {planet} и исчез. Ваша задача - подобрать контейнер и доставить его кораблю {shipid} на орбиту вокруг {star}. Я заплачу вам {cash}."
+  },
+  "INTROTEXT_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Привет, приятель, я знаю о поле мусора с нелегальными товарами. Полиция поймала контрабандиста недалеко от {planet}. У них еще не было времени на уборку территории. Если поторопишься, заработаешь лёгкие деньги! Я могу дать координаты. Это будет стоить тебе всего {cash}. Не упусти шанс!"
+  },
+  "INTROTEXT_LEGAL_GOODS": {
+    "description": "",
+    "message": "Привет, мой друг. Я {client}. Я слышал о грузовом перевозчике, который возле {planet} попал в аварию из-за плохого обслуживания корабля. Удивительно, кому в наши дни удается управлять космическим кораблем, не правда ли? Как бы то ни было, ему пришлось сбросить много груза. Если поторопишься, то сможешь легко забрать его груз! Эта информация ценна пока свежая! Продам координаты за жалкие {cash}. Что скажешь?"
+  },
+  "INTROTEXT_RESCUE": {
+    "description": "",
+    "message": "Привет, меня зовут {client}. Экипаж грузового судна был вынужден покинуть свой корабль после инцидента. Владелец судна готов заплатить {cash} за секретную спасательную операцию. Место аварии находится недалеко от {planet}. Пожалуйста, подберите команду и доставьте их на станцию!"
+  },
+  "NUCLEAR_MISSILE": {
+    "description": "A cargo item",
+    "message": "Ядерная ракета"
+  },
+  "OK_AGREED": {
+    "description": "",
+    "message": "Согласен, подписываю контракт."
+  },
+  "REPEAT_THE_REQUEST": {
+    "description": "",
+    "message": "Не могли бы вы повторить просьбу?"
+  },
+  "RESCUE_CAPSULE": {
+    "description": "",
+    "message": "Спасательная капсула"
+  },
+  "ROCKET_LAUNCHERS": {
+    "description": "",
+    "message": "Ракетные установки"
+  },
+  "SCOOP": {
+    "description": "Name of mission type",
+    "message": "Сборник"
+  },
+  "SET_AS_TARGET": {
+    "description": "",
+    "message": "Установить как цель для навигации"
+  },
+  "SHIP": {
+    "description": "",
+    "message": "Тип корабля:"
+  },
+  "SHIP_DESTROYED": {
+    "description": "",
+    "message": "О нет. {shipid} был уничтожен. Доставьте груз на {station} срочно!"
+  },
+  "SPACEPORT": {
+    "description": "",
+    "message": "Космопорт нахождения:"
+  },
+  "SPOILED_FOOD": {
+    "description": "cargo item",
+    "message": "Испорченная еда"
+  },
+  "SUCCESS_MSG_ARMS_DEALER": {
+    "description": "",
+    "message": "Привет ас, приятного полёта! Деньги переведены."
+  },
+  "SUCCESS_MSG_RESCUE": {
+    "description": "",
+    "message": "Большое спасибо! Команда также благодарна."
+  },
+  "TOXIC_WASTE": {
+    "description": "cargo item",
+    "message": "Токсичные отходы"
+  },
+  "UNKNOWN": {
+    "description": "",
+    "message": "Неизвестно"
+  },
+  "WARNING": {
+    "description": "",
+    "message": "Эй! Что ты творишь? Наш контракт под угрозой! Пожалуйста, подбери это обратно!"
+  },
+  "WHY_NOT_YOURSELF": {
+    "description": "",
+    "message": "Почему бы тебе самому не сделать это?"
+  },
+  "WHY_NOT_YOURSELF_ARMS_DEALER": {
+    "description": "",
+    "message": "За мной следят местные власти! Я исчезнуть на несколько недель."
+  },
+  "WHY_NOT_YOURSELF_ILLEGAL_GOODS": {
+    "description": "",
+    "message": "Я просто офисный клерк. У меня нет корабля."
+  },
+  "WHY_NOT_YOURSELF_LEGAL_GOODS": {
+    "description": "",
+    "message": "У меня нет корабля."
+  },
+  "WHY_NOT_YOURSELF_RESCUE": {
+    "description": "",
+    "message": "Сейчас у меня нет корабля."
+  },
+  "YOU_DO_NOT_HAVE_A_SCOOP": {
+    "description": "",
+    "message": "Извините, у вас нет грузового ковша."
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Недостаточно средств для покупки."
+  }
+}

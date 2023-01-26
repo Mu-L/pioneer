@@ -1,0 +1,138 @@
+{
+  "APPLY_FOR_MEMBERSHIP": {
+    "description": "",
+    "message": "Solicitar el ingreso"
+  },
+  "BEGIN_TRADE": {
+    "description": "",
+    "message": "Comenzar transacción"
+  },
+  "FLAVOUR_0_CLUBNAME": {
+    "description": "",
+    "message": "Cooperativa Interestelar de Combustibles"
+  },
+  "FLAVOUR_0_DESC": {
+    "description": "",
+    "message": "Contacte con el representante local de Pilots' Fuel Co-operative."
+  },
+  "FLAVOUR_0_MEMBER_INTRO": {
+    "description": "",
+    "message": "You may purchase fuel and dispose of {radioactives} here."
+  },
+  "FLAVOUR_0_NONMEMBER_INTRO": {
+    "description": "",
+    "message": "{clubname} es una organización independiente dedicada a proveer descuentos en combustible a sus miembros. Sus sedes se encuentran por toda la galaxia. Los beneficios de afiliación incluyen:"
+  },
+  "FLAVOUR_0_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "PILOT'S FUEL CO-OP"
+  },
+  "FLAVOUR_0_WELCOME": {
+    "description": "",
+    "message": "Bienvenido a {clubname}"
+  },
+  "FLAVOUR_1_CLUBNAME": {
+    "description": "Fuel club for the Federation faction",
+    "message": "La Fundación Federal de Fuel"
+  },
+  "FLAVOUR_1_DESC": {
+    "description": "Fuel club for the Federation faction",
+    "message": "Contacto autorizado con la Fundación Federal de Combustibles."
+  },
+  "FLAVOUR_1_NONMEMBER_INTRO": {
+    "description": "For the Solar Federation faction",
+    "message": "{clubname} es el proveedor líder de combustibles con descuento para las naves de sus miembros en la Federación Solar. La condición de miembro le autorizará para lo siguiente:"
+  },
+  "FLAVOUR_1_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "FUNDACIÓN FEDERAL DE COMBUSTIBLES"
+  },
+  "FLAVOUR_2_CLUBNAME": {
+    "description": "Fuel club for the CIW (Commonwealth of Independent Worlds) faction",
+    "message": "La Mancomunidad Unida de Fuel"
+  },
+  "FLAVOUR_2_DESC": {
+    "description": "Fuel club for the CIW (Commonwealth of Independent Worlds) faction",
+    "message": "Pida una reunión para hablar con Commonwealth Fuel Union."
+  },
+  "FLAVOUR_2_NONMEMBER_INTRO": {
+    "description": "Commonwealth of Independent Worlds is the name of the CIW faction",
+    "message": "De punta a punta del vasto territorio de la libre Mancomunidad de Mundos Independientes encontrará a {clubname} como el mejor proveedor de fuel con descuento y de gestión de servicios de residuos. Para nuestros miembros ofrecemos:"
+  },
+  "FLAVOUR_2_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "COMMONWEALTH FUEL UNION"
+  },
+  "FLAVOUR_2_WELCOME": {
+    "description": "",
+    "message": "¡Saludos! Esperamos que disfrute de nuestros servicios."
+  },
+  "FLAVOUR_3_CLUBNAME": {
+    "description": "Fuel club for the Haber faction",
+    "message": "Propelentes Haber y División de Perecederos"
+  },
+  "FLAVOUR_3_DESC": {
+    "description": "Fuel club for the Haber faction",
+    "message": "Sucursal de Propelentes Haber y División de Perecederos."
+  },
+  "FLAVOUR_3_MEMBER_INTRO": {
+    "description": "For the greedy Haber faction, very corporate formulated",
+    "message": "Saludos piloto. Su repostaje y privilegios condicionales de expulsión de residuos están garantizados. "
+  },
+  "FLAVOUR_3_NONMEMBER_INTRO": {
+    "description": "for the Haber faction",
+    "message": "Saludos piloto. Esto es Propelentes Haber y División de Perecederos, encargados de gestionar la distribución de combustible en el espacio propiedad de Haber."
+  },
+  "FLAVOUR_3_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "PROPELENTES HABER"
+  },
+  "FUEL_LEVEL": {
+    "description": "",
+    "message": "Su nivel actual de fuel es {level}%."
+  },
+  "LIST_BENEFITS_DISPOSAL": {
+    "description": "",
+    "message": "{radioactives}, libre disposición (se aplican condiciones)"
+  },
+  "LIST_BENEFITS_FUEL": {
+    "description": "",
+    "message": "descuento de precios en {fuel}"
+  },
+  "LIST_BENEFITS_FUEL_INTRO": {
+    "description": "",
+    "message": "Stock propio de fuel, independiente del mercado general"
+  },
+  "LIST_BENEFITS_FUEL_TANK": {
+    "description": "",
+    "message": "Llenado del depósito de fuel, una vez al día"
+  },
+  "LIST_BENEFITS_JOIN": {
+    "description": "",
+    "message": "¡Hágase socio! Cuota anual de solo {membership_fee}"
+  },
+  "REFUEL_FREE": {
+    "description": "",
+    "message": "Repostaje del depósito interno gratis."
+  },
+  "WE_WILL_ONLY_DISPOSE_OF": {
+    "description": "",
+    "message": "Solo dispensaremos una cantidad de {radioactives} equivalente a las toneladas de {military_fuel} adquiridas."
+  },
+  "WHAT_CONDITIONS_APPLY": {
+    "description": "",
+    "message": "¿Cuáles son las condiciones aplicables en la disponibilidad de {radioactives}?"
+  },
+  "YOUR_MEMBERSHIP_APPLICATION_HAS_BEEN_DECLINED": {
+    "description": "",
+    "message": "Su ingreso ha sido rechazado."
+  },
+  "YOU_ARE_NOW_A_MEMBER": {
+    "description": "",
+    "message": "Ahora es miembro. Su afiliación expira en {expiry_date}."
+  },
+  "YOU_MUST_BUY": {
+    "description": "",
+    "message": "Debe adquirir nuestro {military_fuel} para dispensarle {radioactives}"
+  }
+}

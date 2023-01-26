@@ -371,6 +371,22 @@
     "description": "",
     "message": "Показване на вертикалните линии"
   },
+  "DWARF_PLANET_CONTAINING_LIQUID_WATER": {
+    "description": "",
+    "message": "Планета джудже с наличие на течна вода"
+  },
+  "DWARF_PLANET_CONTAINING_SOME_LIQUIDS": {
+    "description": "",
+    "message": "Планета джудже с наличие на течни вещества,"
+  },
+  "DWARF_PLANET_MOSTLY_COVERED_IN_ICE": {
+    "description": "",
+    "message": "Планета джудже с покритие от лед"
+  },
+  "DWARF_PLANET_TERRESTRIAL": {
+    "description": "",
+    "message": "Планета джудже"
+  },
   "EARTH_FEDERATION_COLONIAL_RULE": {
     "description": "",
     "message": "Колониално управление на Земната федерация"
@@ -598,6 +614,10 @@
   "H_ATMOSPHERE": {
     "description": "",
     "message": "атмосфера от водород"
+  },
+  "ICE_DWARF_PLANET": {
+    "description": "",
+    "message": "Ледена планета джудже"
   },
   "ICE_MOON": {
     "description": "",

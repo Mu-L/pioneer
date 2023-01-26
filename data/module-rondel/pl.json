@@ -1,0 +1,66 @@
+{
+  "CREDITS_PROMISE": {
+    "description": "",
+    "message": "250 000 w gotówce. Teraz. Uznałbym to za interesujące."
+  },
+  "DEFENSE_CRAFT_ELIMINATED": {
+    "description": "",
+    "message": "Pojazd ochrony układu wyeliminowany. Incydent będzie odnotowany."
+  },
+  "HABER_DEFENSE_CRAFT": {
+    "description": "",
+    "message": "Pojazd obrony Haber"
+  },
+  "HEY_OVER_HERE": {
+    "description": "",
+    "message": "Hej, tutaj."
+  },
+  "HOSTILE_ACTION_REPORTED": {
+    "description": "",
+    "message": "Zgłoszona wroga akcja. Przechwycić i zniszczyć!"
+  },
+  "INTERCEPTION_SUCCESSFUL": {
+    "description": "",
+    "message": "Pomyślne przechwycenie. Wrogi pojazd zniszczony."
+  },
+  "JETTISON_DEFENSIVE_PRECAUTION": {
+    "description": "",
+    "message": "Wykrycie wystrzelenia. Wdrożyć gotowość obronną!"
+  },
+  "NOT_INTERESTED": {
+    "description": "",
+    "message": "A co, jeśli nie jestem zainteresowany?"
+  },
+  "PERFECT": {
+    "description": "",
+    "message": "Doskonaly. Gdyby ktoś pytał... Z pewnością nikt nie zapyta, ale wrazie czego, proszę, pamiętaj, że po prostu targowaliśmy się o dodatkowy generator osłony."
+  },
+  "RONDEL_RESTRICTED_ZONE": {
+    "description": "",
+    "message": "{playerShipLabel}, ten układ gwiezdny jest strefą zastrzeżoną. Musisz go opuścić w ciągu {seconds} sekund. W przeciwnym razie zostaniesz uznany za wroga i zostaną podjęte środki obronne."
+  },
+  "SOLFED_INTEL": {
+    "description": "",
+    "message": "Wywiad Federacji Słonecznej"
+  },
+  "SOLFED_INTEL_INTRO": {
+    "description": "",
+    "message": "Ścisz głos, pilocie. Jestem agentem pod przykrywką, pracującym dla Wywiadu Federacji Słonecznej. Pamięć komputera w Twoim statku zawiera pewne interesujące nas dane."
+  },
+  "WEAPONS_EVASIVE_ACTION": {
+    "description": "",
+    "message": "Wykryto strzał z broni. Podjąć akcję unikową!"
+  },
+  "WHAT_IS_THIS_ABOUT": {
+    "description": "",
+    "message": "Jakie dane? O co w tym wszystkim chodzi?"
+  },
+  "YOU_SHALL_HAVE_THE_DATA": {
+    "description": "",
+    "message": "Będziesz miał te dane."
+  },
+  "YOU_VISITED_STAR_SYSTEM": {
+    "description": "",
+    "message": "Być może byłeś w pewnym układzie gwiezdnym, o którym chętnie się więcej dowiemy."
+  }
+}

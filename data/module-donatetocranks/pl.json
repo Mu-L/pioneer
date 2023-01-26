@@ -1,0 +1,138 @@
+{
+  "FLAVOUR_0_ADTITLE": {
+    "description": "",
+    "message": "DAROWIZNA!"
+  },
+  "FLAVOUR_0_DESC": {
+    "description": "",
+    "message": "Kościół Niebiańskiego Latającego Potwora Spaghetti potrzebuje TWOICH pieniędzy żeby szerzyć słowo boże."
+  },
+  "FLAVOUR_0_MESSAGE": {
+    "description": "",
+    "message": "Proszę wybrać wysokość datku, jaką chcesz wesprzeć Kościół Latającego Potwora Spaghetti."
+  },
+  "FLAVOUR_1_ADTITLE": {
+    "description": "",
+    "message": "DAROWIZNA"
+  },
+  "FLAVOUR_1_DESC": {
+    "description": "",
+    "message": "Strażnicy Wolnego Ducha pokornie proszą o wsparcie charytatywne naszych klasztorów."
+  },
+  "FLAVOUR_1_MESSAGE": {
+    "description": "",
+    "message": "Pokój z Tobą, bracie. Proszę wybrać wysokość datku dla Strażników Wolnego Ducha."
+  },
+  "FLAVOUR_2_ADTITLE": {
+    "description": "",
+    "message": "CZUJESZ SIĘ HOJNY?"
+  },
+  "FLAVOUR_2_DESC": {
+    "description": "",
+    "message": "Wsparcie Sierot Wojennych potrzebuje Twojej pomocy, żeby móc wykonywać swoja kluczową pracę."
+  },
+  "FLAVOUR_2_MESSAGE": {
+    "description": "",
+    "message": "Proszę wybrać wysokość datku, jaką chcesz wesprzeć Pomoc Sierotom Wojennym, i zakończ cierpienie dzieci w całej galaktyce."
+  },
+  "FLAVOUR_3_ADTITLE": {
+    "description": "",
+    "message": "PRZYCZYŃ SIĘ"
+  },
+  "FLAVOUR_3_DESC": {
+    "description": "",
+    "message": "Przyjaciele galaktyki, kampania 'Pozbądźmy się Wojskowych napędów' potrzebuje Twoich pieniędzy."
+  },
+  "FLAVOUR_3_MESSAGE": {
+    "description": "",
+    "message": "Proszę wybierz kwotę jaką chcesz wesprzeć GreenWatch, i zakończ zanieczyszczanie naszej galaktyki."
+  },
+  "FLAVOUR_4_ADTITLE": {
+    "description": "",
+    "message": "DAROWIZNA!"
+  },
+  "FLAVOUR_4_DESC": {
+    "description": "",
+    "message": "Uratuj nasz gatunek. Zatrzymaj rzeź na nowo osiedlonych planetach."
+  },
+  "FLAVOUR_4_MESSAGE": {
+    "description": "",
+    "message": "Proszę wybrać wysokość wsparcia."
+  },
+  "FLAVOUR_5_ADTITLE": {
+    "description": "",
+    "message": "WSPIERAJ WOLNOŚĆ!"
+  },
+  "FLAVOUR_5_DESC": {
+    "description": "",
+    "message": "Zatrzymaj niesprawiedliwość autorskiego oprogramowania, kontrolującego Twój statek."
+  },
+  "FLAVOUR_5_MESSAGE": {
+    "description": "",
+    "message": "Wyzwól swój statek! Prosimy wybrać kwotę datku. Życzymy udanego hackingu."
+  },
+  "FLAVOUR_6_ADTITLE": {
+    "description": "",
+    "message": "DZIEŃ WETERANÓW!"
+  },
+  "FLAVOUR_6_DESC": {
+    "description": "",
+    "message": "Wesprzyj weteranów z {MILITARY}."
+  },
+  "FLAVOUR_6_MESSAGE": {
+    "description": "",
+    "message": "{MILITARY}. Zawsze możesz na nich liczyć.\nCzy oni mogą liczyć na ciebie?"
+  },
+  "FLAVOUR_7_ADTITLE": {
+    "description": "",
+    "message": "CZY MAJĄ TWOJE WSPARCIE?"
+  },
+  "FLAVOUR_7_DESC": {
+    "description": "",
+    "message": "Wesprzyj weteranów z {POLICE}."
+  },
+  "FLAVOUR_7_MESSAGE": {
+    "description": "",
+    "message": "Ci dzielni ludzie z {POLICE}, którzy poświęcili życie dla bezpieczeństwa {SYSTEM}, potrzebują twojego wsparcia!"
+  },
+  "FLAVOUR_8_ADTITLE": {
+    "description": "",
+    "message": "WESPRZYJ NASZYCH WETERANÓW!"
+  },
+  "FLAVOUR_8_DESC": {
+    "description": "",
+    "message": "Wesprzyj weteranów naszych sił zbrojnych."
+  },
+  "FLAVOUR_8_MESSAGE": {
+    "description": "",
+    "message": "Dzielni żołnierze z {MILITARY} ponoszą szkody dla ciebie!"
+  },
+  "FLAVOUR_9_ADTITLE": {
+    "description": "",
+    "message": "ZAKOŃCZYĆ UBÓSTWO!"
+  },
+  "FLAVOUR_9_DESC": {
+    "description": "",
+    "message": "Wesprzyj walkę z ubóstwem w {FACTION}."
+  },
+  "FLAVOUR_9_MESSAGE": {
+    "description": "",
+    "message": "Wspieramy rodziny w {FACTION} aby budować lepszą przyszłość dla wszystkich."
+  },
+  "SALES_PITCH": {
+    "description": "",
+    "message": "Twoja reputacja zyska dzięki wpłaceniu na naszą sprawę {cash}, ale pomogłaby jakakolwiek donacja."
+  },
+  "THANK_YOU_ALL_DONATIONS_ARE_WELCOME": {
+    "description": "",
+    "message": "Dziękuję. Cenimy każde wsparcie."
+  },
+  "WOW_THAT_WAS_VERY_GENEROUS": {
+    "description": "",
+    "message": "O! Jesteś bardzo hojny."
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Nie masz dość pieniędzy."
+  }
+}

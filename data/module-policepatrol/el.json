@@ -1,0 +1,74 @@
+{
+  "ILLEGAL_GOODS_DETECTED": {
+    "description": "",
+    "message": "Εντοπίστηκαν παράνομα εμπορεύματα."
+  },
+  "INITIATE_CARGO_SCAN_1": {
+    "description": "",
+    "message": "Έναρξη σάρωσης φορτίου."
+  },
+  "INITIATE_CARGO_SCAN_2": {
+    "description": "",
+    "message": "Διατήρησε ταχύτητα και πορεία για σάρωση φορτίου."
+  },
+  "INITIATE_CARGO_SCAN_3": {
+    "description": "",
+    "message": "Εκκίνηση έρευνας για λαθραία αντικείμενα."
+  },
+  "NOTHING_DETECTED": {
+    "description": "",
+    "message": "Δεν εντοπίστηκε παράνομο φορτίο. Μπορείτε να συνεχίσετε."
+  },
+  "OUTLAW_DETECTED_1": {
+    "description": "",
+    "message": "Το {ship_label} κυβερνάται από έναν γνωστό παράνομο. Επιτεθείτε και καταστρέψτε!"
+  },
+  "OUTLAW_DETECTED_2": {
+    "description": "",
+    "message": "Ληστή, οι μέρες σου είναι μετρημένες!"
+  },
+  "OUTLAW_DETECTED_3": {
+    "description": "",
+    "message": "Χα, πιάστηκες! Δεν θα φύγεις από αυτό το σύστημα ζωντανός!"
+  },
+  "POLICE_TAUNT_1": {
+    "description": "",
+    "message": "Φιλαράκι, αυτό ήταν μια κακή ιδέα!"
+  },
+  "POLICE_TAUNT_2": {
+    "description": "",
+    "message": "Λαθρέμπορε, θα πληρώσεις το υπέρτατο τίμημα!"
+  },
+  "POLICE_TAUNT_3": {
+    "description": "",
+    "message": "Μαλάκα, το έγκλημα δεν αποδίδει!"
+  },
+  "RESPECT_THE_LAW_1": {
+    "description": "",
+    "message": "Σεβαστείτε το νόμο! Το έγκλημα δεν αποδίδει στο σύστημα {system}!"
+  },
+  "RESPECT_THE_LAW_2": {
+    "description": "",
+    "message": "Έχετε εισέλθει στο σύστημα {system}. Σεβαστείτε το νόμο!"
+  },
+  "TAKE_A_HIKE": {
+    "description": "",
+    "message": "Εντάξει, έχεις μια δεύτερη ευκαιρία. Πάρε δρόμο!"
+  },
+  "TARGET_DESTROYED_1": {
+    "description": "",
+    "message": "Στόχος καταστράφηκε!"
+  },
+  "TARGET_DESTROYED_2": {
+    "description": "",
+    "message": "Ναι!"
+  },
+  "TARGET_DESTROYED_3": {
+    "description": "",
+    "message": "Αναπαύσου εν ειρηνικά κομμάτια! Χαχα."
+  },
+  "TARGET_DESTROYED_4": {
+    "description": "",
+    "message": "Άλλος ένας τρώει σκόνη!"
+  }
+}

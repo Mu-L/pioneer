@@ -1671,6 +1671,10 @@
     "description": "Welcome message to the paintshop.",
     "message": "Najlepszy wygląd w galaktyce, nie był nigdy łatwiejszy!"
   },
+  "PASSENGER_CABIN_CAPACITY": {
+    "description": "Entry for ship info",
+    "message": "Pojemność kabiny pasażerskie"
+  },
   "PATTERN": {
     "description": "Ship painting pattern.",
     "message": "Wzór"
@@ -2098,6 +2102,10 @@
   "TECH_CERTIFIED_MILITARY": {
     "description": "Lobby screen shows the tech level of the station",
     "message": "Na tej stacji oficjalnie dostępna jest technologia militarna."
+  },
+  "TECH_LEVEL": {
+    "description": "System view label for technology level",
+    "message": "Poziom technologiczny"
   },
   "TEXTURE_COMPRESSION": {
     "description": "",
