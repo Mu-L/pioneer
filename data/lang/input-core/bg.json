@@ -111,6 +111,10 @@
     "description": "Axis binding",
     "message": "Отклоняване"
   },
+  "BIND_MAP_VIEW_ZOOM": {
+    "description": "Axis binding",
+    "message": "Мащабиране"
+  },
   "BIND_MAP_WARP_TO_CURRENT_SYSTEM": {
     "description": "Descriptive name for the MapWarpToCurrentSystem action.",
     "message": "Хипервръзка с текущата система"
@@ -321,5 +325,57 @@
   "Z": {
     "description": "keybinding: z axis",
     "message": "Z"
+  },
+  "GROUP_LANDING_CONTROL": {
+	"description": "Group label for landing-related inputs",
+	"message": "Управление на приземяването"
+  },
+  "BIND_CONTROL_LANDING_GEAR": {
+	"description": "Axis description",
+	"message": "Вдигане / спускане на колесниците"
+  },
+  "BIND_TOGGLE_LANDING_GEAR": {
+	"description": "Action description",
+	"message": "Колесници"
+  },
+  "NUM_AXES": {
+	"description": "",
+	"message": "Оси:"
+  },
+  "NUM_BUTTONS": {
+	"description": "",
+	"message": "Бутони:"
+  },
+  "NUM_HATS": {
+	"description": "",
+	"message": "Превключватели:"
+  },
+  "CURRENT_VALUE": {
+	"description": "",
+	"message": "Текуща стойност:"
+  },
+  "HALF_AXIS_MODE": {
+	"description": "",
+	"message": "Режим на полуос"
+  },
+  "DEADZONE": {
+	"description": "",
+	"message": "Мъртва зона"
+  },
+  "CURVE": {
+	"description": "",
+	"message": "Крива"
+  },
+  "RX": {
+    "description": "keybinding: second x axis",
+    "message": "RX"
+  },
+  "RY": {
+    "description": "keybinding: second y axis",
+    "message": "RY"
+  },
+  "RZ": {
+    "description": "keybinding: second z axis",
+    "message": "RZ"
   }
 }
