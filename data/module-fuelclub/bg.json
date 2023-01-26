@@ -1,0 +1,138 @@
+{
+  "APPLY_FOR_MEMBERSHIP": {
+    "description": "",
+    "message": "Кандидатстване за членство"
+  },
+  "BEGIN_TRADE": {
+    "description": "",
+    "message": "Започване търговия"
+  },
+  "FLAVOUR_0_CLUBNAME": {
+    "description": "",
+    "message": "Горивната кооперация на междузвездните пилоти"
+  },
+  "FLAVOUR_0_DESC": {
+    "description": "",
+    "message": "Свържете се с местния представител на Горивната кооперация на пилотите."
+  },
+  "FLAVOUR_0_MEMBER_INTRO": {
+    "description": "",
+    "message": "Тук може да закупите гориво и да изхвърлите {radioactives}."
+  },
+  "FLAVOUR_0_NONMEMBER_INTRO": {
+    "description": "",
+    "message": "{clubname} е независима организация, занимаваща се с осигуряването на евтино гориво за нейните членове. Организацията има клонове в цялата галактика. Ползите от членството включват:"
+  },
+  "FLAVOUR_0_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "ГОРИВНА КООПЕРАЦИЯ НА ПИЛОТИТЕ"
+  },
+  "FLAVOUR_0_WELCOME": {
+    "description": "",
+    "message": "Добре дошли в {clubname}"
+  },
+  "FLAVOUR_1_CLUBNAME": {
+    "description": "Fuel club for the Federation faction",
+    "message": "Федералната горивна фондация"
+  },
+  "FLAVOUR_1_DESC": {
+    "description": "Fuel club for the Federation faction",
+    "message": "Пълномощник на Федералната горивна фондация."
+  },
+  "FLAVOUR_1_NONMEMBER_INTRO": {
+    "description": "For the Solar Federation faction",
+    "message": "{clubname} е лидер в осигуряването на евтино гориво за нейните членове в Слънчевата федерация. Членството Ви дава право на:"
+  },
+  "FLAVOUR_1_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "ФЕДЕРАЛНА ГОРИВНА ФОНДАЦИЯ"
+  },
+  "FLAVOUR_2_CLUBNAME": {
+    "description": "Fuel club for the CIW (Commonwealth of Independent Worlds) faction",
+    "message": "Съюзът на горивната федерация"
+  },
+  "FLAVOUR_2_DESC": {
+    "description": "Fuel club for the CIW (Commonwealth of Independent Worlds) faction",
+    "message": "Уговорете си среща с представител на Съюзът на горивната федерация."
+  },
+  "FLAVOUR_2_NONMEMBER_INTRO": {
+    "description": "Commonwealth of Independent Worlds is the name of the CIW faction",
+    "message": "В Съюза на независимите светове, {clubname} осигурява най-евтиното гориво и най-доброто управление на отпадъците. За нашите членове, предлагаме:"
+  },
+  "FLAVOUR_2_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "СЪЮЗ НА ГОРИВНАТА ФЕДЕРАЦИЯ"
+  },
+  "FLAVOUR_2_WELCOME": {
+    "description": "",
+    "message": "Здравейте и поздрави от нас! Насладете се на нашите услуги."
+  },
+  "FLAVOUR_3_CLUBNAME": {
+    "description": "Fuel club for the Haber faction",
+    "message": "Хаберската дивизия за гориво и отпадъци"
+  },
+  "FLAVOUR_3_DESC": {
+    "description": "Fuel club for the Haber faction",
+    "message": "Клон на Хаберската дивизия за гориво и отпадъци."
+  },
+  "FLAVOUR_3_MEMBER_INTRO": {
+    "description": "For the greedy Haber faction, very corporate formulated",
+    "message": "Здравейте. Може да презаредите с гориво или да унищожите Вашите отпадъци."
+  },
+  "FLAVOUR_3_NONMEMBER_INTRO": {
+    "description": "for the Haber faction",
+    "message": "Здравейте. Намирате се в Хаберската дивизия за гориво и отпадъци, ние се занимаваме с доставките на гориво в контролираната от нас територия."
+  },
+  "FLAVOUR_3_TITLE": {
+    "description": "Title of the BBS advertisement",
+    "message": "ХАБЕРСКО ГОРИВО"
+  },
+  "FUEL_LEVEL": {
+    "description": "",
+    "message": "Резервоарът на Вашия кораб е пълен на {level} %."
+  },
+  "LIST_BENEFITS_DISPOSAL": {
+    "description": "",
+    "message": "Безплатно унищожение на {radioactives} (според условията)"
+  },
+  "LIST_BENEFITS_FUEL": {
+    "description": "",
+    "message": "{fuel} на намалени цени"
+  },
+  "LIST_BENEFITS_FUEL_INTRO": {
+    "description": "",
+    "message": "Нашите запаси от гориво, независими от пазара"
+  },
+  "LIST_BENEFITS_FUEL_TANK": {
+    "description": "",
+    "message": "Всекидневно зареждане с гориво"
+  },
+  "LIST_BENEFITS_JOIN": {
+    "description": "",
+    "message": "Присъединете се сега! Годишното членство струва само {membership_fee}"
+  },
+  "REFUEL_FREE": {
+    "description": "",
+    "message": "Безплатно зареждане с гориво."
+  },
+  "WE_WILL_ONLY_DISPOSE_OF": {
+    "description": "",
+    "message": "Ще унищожим толкова тона {radioactives}, колкото {military_fuel} е закупено от нас."
+  },
+  "WHAT_CONDITIONS_APPLY": {
+    "description": "",
+    "message": "Какви са условията за унищожение на {radioactives}?"
+  },
+  "YOUR_MEMBERSHIP_APPLICATION_HAS_BEEN_DECLINED": {
+    "description": "",
+    "message": "Вашата кандидатура е отхвърлена."
+  },
+  "YOU_ARE_NOW_A_MEMBER": {
+    "description": "",
+    "message": "Вече сте част от нас. Кандидатурата Ви ще изтече на {expiry_date}."
+  },
+  "YOU_MUST_BUY": {
+    "description": "",
+    "message": "Първо, закупете от {military_fuel}, после ще вземем Вашите {radioactives}"
+  }
+}
