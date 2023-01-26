@@ -1,0 +1,138 @@
+{
+  "FLAVOUR_0_ADTITLE": {
+    "description": "",
+    "message": "BAĞIŞ YAP!"
+  },
+  "FLAVOUR_0_DESC": {
+    "description": "",
+    "message": "Uçan Spagetti Canavarı Kilisesinin tanrının sözlerini yaymak için SİZİN paranıza ihtiyacı var."
+  },
+  "FLAVOUR_0_MESSAGE": {
+    "description": "",
+    "message": "Lütfen İlahi Uçan Spagetti Canavarı Kilisesine yapmak istediğiniz bağışın miktarını seçiniz"
+  },
+  "FLAVOUR_1_ADTITLE": {
+    "description": "",
+    "message": "BAĞIŞ YAP"
+  },
+  "FLAVOUR_1_DESC": {
+    "description": "",
+    "message": "Özgür Ruhun Muhafızları manastırlarımıza destek olmak için alçakgönüllülükle sadakanızı istiyor."
+  },
+  "FLAVOUR_1_MESSAGE": {
+    "description": "",
+    "message": "Barış seninle olsun, kardeşim. Lütfen Özgür Ruhun Koruyucularına yapmak istediğiniz bağış miktarını seçiniz."
+  },
+  "FLAVOUR_2_ADTITLE": {
+    "description": "",
+    "message": "CÖMERT Mİ HİSSEDİYORSUNUZ?"
+  },
+  "FLAVOUR_2_DESC": {
+    "description": "",
+    "message": "Savaş Yetimlerinin Desteği vazgeçilmez görevini sürdürmek için yardımınıza ihtiyaç duyuyor."
+  },
+  "FLAVOUR_2_MESSAGE": {
+    "description": "",
+    "message": "Lütfen Savaş Yetimleri Vakfına yapmak istediğiniz bağış miktarını seçiniz ve tüm galaksideki çocukların çektikleri acılara son verin."
+  },
+  "FLAVOUR_3_ADTITLE": {
+    "description": "",
+    "message": "KATKI SAĞLA"
+  },
+  "FLAVOUR_3_DESC": {
+    "description": "",
+    "message": "Galaksinin Dostları 'Askeri Sürücüleri Yasaklayın' kampanyası için paranıza ihtiyaç duyuyor."
+  },
+  "FLAVOUR_3_MESSAGE": {
+    "description": "",
+    "message": "Lütfen YeşilGözlem'e yapmak istediğiniz bağış miktarını seçiniz ve galaksimizdeki kirliliğe son verin."
+  },
+  "FLAVOUR_4_ADTITLE": {
+    "description": "",
+    "message": "BAĞIŞ YAP!"
+  },
+  "FLAVOUR_4_DESC": {
+    "description": "",
+    "message": "Türlerimizi koruyun. Yeni yerleşilen dünyalardaki katliamı durdurun."
+  },
+  "FLAVOUR_4_MESSAGE": {
+    "description": "",
+    "message": "Lütfen bağış yapılacak miktarı seçin."
+  },
+  "FLAVOUR_5_ADTITLE": {
+    "description": "",
+    "message": "ÖZGÜRLÜĞÜ DESTEKLE!"
+  },
+  "FLAVOUR_5_DESC": {
+    "description": "",
+    "message": "Geminizi kontrol eden mülki yazılımların adaletsizliğine son verin."
+  },
+  "FLAVOUR_5_MESSAGE": {
+    "description": "",
+    "message": "Geminizi özgür kılın! Lütfen bağış yapılacak miktarı seçin. Mutlu kırmalar."
+  },
+  "FLAVOUR_6_ADTITLE": {
+    "description": "",
+    "message": "GAZİLER GÜNÜ!"
+  },
+  "FLAVOUR_6_DESC": {
+    "description": "",
+    "message": "{MILITARY} gazilerini destekleyin."
+  },
+  "FLAVOUR_6_MESSAGE": {
+    "description": "",
+    "message": "{MILITARY}. Her zaman güven verir.\nPeki onlar size güvenebilir mi?"
+  },
+  "FLAVOUR_7_ADTITLE": {
+    "description": "",
+    "message": "ARKALARINDA DURUYOR MUSUNUZ?"
+  },
+  "FLAVOUR_7_DESC": {
+    "description": "",
+    "message": "{POLICE} gazilerini destekleyin."
+  },
+  "FLAVOUR_7_MESSAGE": {
+    "description": "",
+    "message": "Hayatlarını {SYSTEM} sistemini korumaya adayan cesur {POLICE} ekibinin yardımınıza ihtiyacı var!"
+  },
+  "FLAVOUR_8_ADTITLE": {
+    "description": "",
+    "message": "GAZİLERİMİZİ DESTEKLEYİN!"
+  },
+  "FLAVOUR_8_DESC": {
+    "description": "",
+    "message": "Silahlı güçlerimizin gazilerini destekleyin."
+  },
+  "FLAVOUR_8_MESSAGE": {
+    "description": "",
+    "message": "{MILITARY} mensubu cesur askerler sizi korumak için kendilerini feda ediyor!"
+  },
+  "FLAVOUR_9_ADTITLE": {
+    "description": "",
+    "message": "FAKİRLİĞE SON VERİN!"
+  },
+  "FLAVOUR_9_DESC": {
+    "description": "",
+    "message": "{FACTION} topraklarında fakirliği yok etme mücadelesine destek verin."
+  },
+  "FLAVOUR_9_MESSAGE": {
+    "description": "",
+    "message": "Hepimize güzel bir gelecek yaratmak için {FACTION} ailelerini güçlendiriyoruz!"
+  },
+  "SALES_PITCH": {
+    "description": "",
+    "message": "Bize {cash} bağışlamanız itibarınızı arttırabilir, ama her türlü yardıma açığız."
+  },
+  "THANK_YOU_ALL_DONATIONS_ARE_WELCOME": {
+    "description": "",
+    "message": "Teşekkür ederiz. Tüm bağışlar takdir edilir."
+  },
+  "WOW_THAT_WAS_VERY_GENEROUS": {
+    "description": "",
+    "message": "Bu çok cömertçeydi."
+  },
+  "YOU_DO_NOT_HAVE_ENOUGH_MONEY": {
+    "description": "",
+    "message": "Yeterli paranız yok."
+  }
+}
